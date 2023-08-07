@@ -1,0 +1,257 @@
+correct query 24798
+dataset name: lucene
+nkw: 500 query_number: 6 * 20000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.20665
+correct query 54164
+dataset name: lucene
+nkw: 500 query_number: 12 * 10000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.4513666666666667
+correct query 83070
+dataset name: lucene
+nkw: 500 query_number: 18 * 6666.666666666667 month: 18 delete_rate = 0.05
+average accuracy:  0.69225
+correct query 111618
+dataset name: lucene
+nkw: 500 query_number: 24 * 5000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.93015
+correct query 55519
+dataset name: lucene
+nkw: 500 query_number: 6 * 40000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.23132916666666667
+correct query 115082
+dataset name: lucene
+nkw: 500 query_number: 12 * 20000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.4795083333333333
+correct query 173811
+dataset name: lucene
+nkw: 500 query_number: 18 * 13333.333333333334 month: 18 delete_rate = 0.05
+average accuracy:  0.7242125
+correct query 232837
+dataset name: lucene
+nkw: 500 query_number: 24 * 10000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.9701541666666667
+correct query 86415
+dataset name: lucene
+nkw: 500 query_number: 6 * 60000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.24004166666666665
+correct query 175718
+dataset name: lucene
+nkw: 500 query_number: 12 * 30000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.48810555555555557
+correct query 264848
+dataset name: lucene
+nkw: 500 query_number: 18 * 20000.0 month: 18 delete_rate = 0.05
+average accuracy:  0.7356888888888888
+correct query 353404
+dataset name: lucene
+nkw: 500 query_number: 24 * 15000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.9816777777777778
+correct query 116063
+dataset name: lucene
+nkw: 500 query_number: 6 * 80000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.24179791666666667
+correct query 236079
+dataset name: lucene
+nkw: 500 query_number: 12 * 40000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.49183125
+correct query 354843
+dataset name: lucene
+nkw: 500 query_number: 18 * 26666.666666666668 month: 18 delete_rate = 0.05
+average accuracy:  0.73925625
+correct query 473634
+dataset name: lucene
+nkw: 500 query_number: 24 * 20000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.9867375
+correct query 19279
+dataset name: lucene
+nkw: 1000 query_number: 6 * 20000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.16065833333333332
+correct query 47348
+dataset name: lucene
+nkw: 1000 query_number: 12 * 10000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.3945666666666667
+correct query 74102
+dataset name: lucene
+nkw: 1000 query_number: 18 * 6666.666666666667 month: 18 delete_rate = 0.05
+average accuracy:  0.6175166666666667
+correct query 100935
+dataset name: lucene
+nkw: 1000 query_number: 24 * 5000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.841125
+correct query 46790
+dataset name: lucene
+nkw: 1000 query_number: 6 * 40000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.19495833333333334
+correct query 106265
+dataset name: lucene
+nkw: 1000 query_number: 12 * 20000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.44277083333333334
+correct query 162962
+dataset name: lucene
+nkw: 1000 query_number: 18 * 13333.333333333334 month: 18 delete_rate = 0.05
+average accuracy:  0.6790083333333333
+correct query 219256
+dataset name: lucene
+nkw: 1000 query_number: 24 * 10000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.9135666666666666
+correct query 77223
+dataset name: lucene
+nkw: 1000 query_number: 6 * 60000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.21450833333333333
+correct query 165556
+dataset name: lucene
+nkw: 1000 query_number: 12 * 30000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.4598777777777778
+correct query 252593
+dataset name: lucene
+nkw: 1000 query_number: 18 * 20000.0 month: 18 delete_rate = 0.05
+average accuracy:  0.7016472222222222
+correct query 337783
+dataset name: lucene
+nkw: 1000 query_number: 24 * 15000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.9382861111111112
+correct query 108328
+dataset name: lucene
+nkw: 1000 query_number: 6 * 80000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.22568333333333335
+correct query 224241
+dataset name: lucene
+nkw: 1000 query_number: 12 * 40000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.46716875
+correct query 339620
+dataset name: lucene
+nkw: 1000 query_number: 18 * 26666.666666666668 month: 18 delete_rate = 0.05
+average accuracy:  0.7075416666666666
+correct query 452127
+dataset name: lucene
+nkw: 1000 query_number: 24 * 20000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.94193125
+correct query 13625
+dataset name: lucene
+nkw: 2000 query_number: 6 * 20000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.11354166666666667
+correct query 34407
+dataset name: lucene
+nkw: 2000 query_number: 12 * 10000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.286725
+correct query 52306
+dataset name: lucene
+nkw: 2000 query_number: 18 * 6666.666666666667 month: 18 delete_rate = 0.05
+average accuracy:  0.43588333333333334
+correct query 70985
+dataset name: lucene
+nkw: 2000 query_number: 24 * 5000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.5915416666666666
+correct query 35087
+dataset name: lucene
+nkw: 2000 query_number: 6 * 40000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.14619583333333333
+correct query 82443
+dataset name: lucene
+nkw: 2000 query_number: 12 * 20000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.3435125
+correct query 123935
+dataset name: lucene
+nkw: 2000 query_number: 18 * 13333.333333333334 month: 18 delete_rate = 0.05
+average accuracy:  0.5163958333333334
+correct query 167267
+dataset name: lucene
+nkw: 2000 query_number: 24 * 10000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.6969458333333334
+correct query 58268
+dataset name: lucene
+nkw: 2000 query_number: 6 * 60000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.16185555555555556
+correct query 134855
+dataset name: lucene
+nkw: 2000 query_number: 12 * 30000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.37459722222222225
+correct query 193112
+dataset name: lucene
+nkw: 2000 query_number: 18 * 20000.0 month: 18 delete_rate = 0.05
+average accuracy:  0.5364222222222222
+correct query 255590
+dataset name: lucene
+nkw: 2000 query_number: 24 * 15000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.7099722222222222
+correct query 85288
+dataset name: lucene
+nkw: 2000 query_number: 6 * 80000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.17768333333333333
+correct query 178963
+dataset name: lucene
+nkw: 2000 query_number: 12 * 40000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.37283958333333334
+correct query 260033
+dataset name: lucene
+nkw: 2000 query_number: 18 * 26666.666666666668 month: 18 delete_rate = 0.05
+average accuracy:  0.5417354166666667
+correct query 347162
+dataset name: lucene
+nkw: 2000 query_number: 24 * 20000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.7232541666666666
+correct query 9702
+dataset name: lucene
+nkw: 3000 query_number: 6 * 20000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.08085
+correct query 26826
+dataset name: lucene
+nkw: 3000 query_number: 12 * 10000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.22355
+correct query 38498
+dataset name: lucene
+nkw: 3000 query_number: 18 * 6666.666666666667 month: 18 delete_rate = 0.05
+average accuracy:  0.3208166666666667
+correct query 55615
+dataset name: lucene
+nkw: 3000 query_number: 24 * 5000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.46345833333333336
+correct query 26233
+dataset name: lucene
+nkw: 3000 query_number: 6 * 40000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.10930416666666666
+correct query 66652
+dataset name: lucene
+nkw: 3000 query_number: 12 * 20000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.27771666666666667
+correct query 98125
+dataset name: lucene
+nkw: 3000 query_number: 18 * 13333.333333333334 month: 18 delete_rate = 0.05
+average accuracy:  0.4088541666666667
+correct query 130755
+dataset name: lucene
+nkw: 3000 query_number: 24 * 10000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.5448125
+correct query 45003
+dataset name: lucene
+nkw: 3000 query_number: 6 * 60000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.12500833333333333
+correct query 106553
+dataset name: lucene
+nkw: 3000 query_number: 12 * 30000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.2959805555555556
+correct query 151817
+dataset name: lucene
+nkw: 3000 query_number: 18 * 20000.0 month: 18 delete_rate = 0.05
+average accuracy:  0.4217138888888889
+correct query 204332
+dataset name: lucene
+nkw: 3000 query_number: 24 * 15000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.5675888888888889
+correct query 65063
+dataset name: lucene
+nkw: 3000 query_number: 6 * 80000.0 month: 6 delete_rate = 0.05
+average accuracy:  0.13554791666666666
+correct query 148453
+dataset name: lucene
+nkw: 3000 query_number: 12 * 40000.0 month: 12 delete_rate = 0.05
+average accuracy:  0.3092770833333333
+correct query 209711
+dataset name: lucene
+nkw: 3000 query_number: 18 * 26666.666666666668 month: 18 delete_rate = 0.05
+average accuracy:  0.43689791666666666
+correct query 278478
+dataset name: lucene
+nkw: 3000 query_number: 24 * 20000.0 month: 24 delete_rate = 0.05
+average accuracy:  0.5801625
+

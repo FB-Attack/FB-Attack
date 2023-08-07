@@ -1,0 +1,41 @@
+time:  8924.539622811004  s
+nkw:  500 n_month:  18 # intervals:  1
+average accuracy:  0.059312500000000004 , std:  0.017252603970125787
+nkw:  500 n_month:  6 # intervals:  3
+average accuracy:  0.13206250000000003 , std:  0.02028844729766179
+nkw:  500 n_month:  3 # intervals:  6
+average accuracy:  0.206125 , std:  0.01909147388233816
+nkw:  500 n_month:  2 # intervals:  9
+average accuracy:  0.2725 , std:  0.023973944189473705
+nkw:  500 n_month:  1 # intervals:  18
+average accuracy:  0.4493125 , std:  0.029153084635249155
+nkw:  1000 n_month:  18 # intervals:  1
+average accuracy:  0.03271875 , std:  0.00913521474501284
+nkw:  1000 n_month:  6 # intervals:  3
+average accuracy:  0.09203125 , std:  0.013931718251439767
+nkw:  1000 n_month:  3 # intervals:  6
+average accuracy:  0.16028125 , std:  0.017672779872943023
+nkw:  1000 n_month:  2 # intervals:  9
+average accuracy:  0.22078124999999998 , std:  0.021001092791507303
+nkw:  1000 n_month:  1 # intervals:  18
+average accuracy:  0.383875 , std:  0.02004331247573614
+nkw:  2000 n_month:  18 # intervals:  1
+average accuracy:  0.018421875 , std:  0.004779692352482008
+nkw:  2000 n_month:  6 # intervals:  3
+average accuracy:  0.057125 , std:  0.006741893280080902
+nkw:  2000 n_month:  3 # intervals:  6
+average accuracy:  0.108453125 , std:  0.009286548887201047
+nkw:  2000 n_month:  2 # intervals:  9
+average accuracy:  0.16321875000000002 , std:  0.009087196951618248
+nkw:  2000 n_month:  1 # intervals:  18
+average accuracy:  0.30557812500000003 , std:  0.01357105684846892
+nkw:  3000 n_month:  18 # intervals:  1
+average accuracy:  0.011604166666666665 , std:  0.0026931465230180932
+nkw:  3000 n_month:  6 # intervals:  3
+average accuracy:  0.03803125 , std:  0.0038867290008937957
+nkw:  3000 n_month:  3 # intervals:  6
+average accuracy:  0.08189583333333333 , std:  0.007708417792330092
+nkw:  3000 n_month:  2 # intervals:  9
+average accuracy:  0.11785416666666666 , std:  0.009902979875606467
+nkw:  3000 n_month:  1 # intervals:  18
+average accuracy:  0.24226041666666664 , std:  0.013613650822438398

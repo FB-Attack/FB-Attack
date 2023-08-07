@@ -1,0 +1,41 @@
+time:  3938.5199663030216  s
+nkw:  500 n_month:  18 # intervals:  1
+average accuracy:  0.07553125 , std:  0.02208150297052943
+nkw:  500 n_month:  6 # intervals:  3
+average accuracy:  0.18212499999999998 , std:  0.024017896972882535
+nkw:  500 n_month:  3 # intervals:  6
+average accuracy:  0.24656250000000002 , std:  0.024316837659325692
+nkw:  500 n_month:  2 # intervals:  9
+average accuracy:  0.28725 , std:  0.02143449322937213
+nkw:  500 n_month:  1 # intervals:  18
+average accuracy:  0.30984375 , std:  0.03176732733387403
+nkw:  1000 n_month:  18 # intervals:  1
+average accuracy:  0.041828124999999994 , std:  0.012905370354405758
+nkw:  1000 n_month:  6 # intervals:  3
+average accuracy:  0.121359375 , std:  0.0144269357317961
+nkw:  1000 n_month:  3 # intervals:  6
+average accuracy:  0.17790625 , std:  0.015180907777122553
+nkw:  1000 n_month:  2 # intervals:  9
+average accuracy:  0.227875 , std:  0.01388175511237682
+nkw:  1000 n_month:  1 # intervals:  18
+average accuracy:  0.22253124999999999 , std:  0.016809566426219922
+nkw:  2000 n_month:  18 # intervals:  1
+average accuracy:  0.02184375 , std:  0.006089100790551918
+nkw:  2000 n_month:  6 # intervals:  3
+average accuracy:  0.07753125 , std:  0.01008126162429584
+nkw:  2000 n_month:  3 # intervals:  6
+average accuracy:  0.1329375 , std:  0.009812499999999998
+nkw:  2000 n_month:  2 # intervals:  9
+average accuracy:  0.1638203125 , std:  0.010509804643871539
+nkw:  2000 n_month:  1 # intervals:  18
+average accuracy:  0.1465546875 , std:  0.009345418825678372
+nkw:  3000 n_month:  18 # intervals:  1
+average accuracy:  0.016661458333333334 , std:  0.0034021501511605377
+nkw:  3000 n_month:  6 # intervals:  3
+average accuracy:  0.05514583333333334 , std:  0.006589363008752144
+nkw:  3000 n_month:  3 # intervals:  6
+average accuracy:  0.10825520833333332 , std:  0.0060681151508829335
+nkw:  3000 n_month:  2 # intervals:  9
+average accuracy:  0.12801041666666663 , std:  0.007526335418142675
+nkw:  3000 n_month:  1 # intervals:  18
+average accuracy:  0.1126875 , std:  0.00833122369129796

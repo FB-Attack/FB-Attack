@@ -1,0 +1,257 @@
+correct query 24664
+dataset name: enron
+nkw: 500 query_number: 6 * 20000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.20553333333333335
+correct query 53522
+dataset name: enron
+nkw: 500 query_number: 12 * 10000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.4460166666666667
+correct query 81713
+dataset name: enron
+nkw: 500 query_number: 18 * 6666.666666666667 month: 18 delete_rate = 0.20
+average accuracy:  0.6809416666666667
+correct query 110561
+dataset name: enron
+nkw: 500 query_number: 24 * 5000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.9213416666666666
+correct query 54030
+dataset name: enron
+nkw: 500 query_number: 6 * 40000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.225125
+correct query 113455
+dataset name: enron
+nkw: 500 query_number: 12 * 20000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.47272916666666664
+correct query 170393
+dataset name: enron
+nkw: 500 query_number: 18 * 13333.333333333334 month: 18 delete_rate = 0.20
+average accuracy:  0.7099708333333333
+correct query 227318
+dataset name: enron
+nkw: 500 query_number: 24 * 10000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.9471583333333333
+correct query 85699
+dataset name: enron
+nkw: 500 query_number: 6 * 60000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.23805277777777778
+correct query 170670
+dataset name: enron
+nkw: 500 query_number: 12 * 30000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.47408333333333336
+correct query 259366
+dataset name: enron
+nkw: 500 query_number: 18 * 20000.0 month: 18 delete_rate = 0.20
+average accuracy:  0.7204611111111111
+correct query 345164
+dataset name: enron
+nkw: 500 query_number: 24 * 15000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.9587888888888889
+correct query 113667
+dataset name: enron
+nkw: 500 query_number: 6 * 80000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.23680625
+correct query 231116
+dataset name: enron
+nkw: 500 query_number: 12 * 40000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.48149166666666665
+correct query 350522
+dataset name: enron
+nkw: 500 query_number: 18 * 26666.666666666668 month: 18 delete_rate = 0.20
+average accuracy:  0.7302541666666666
+correct query 456963
+dataset name: enron
+nkw: 500 query_number: 24 * 20000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.95200625
+correct query 17599
+dataset name: enron
+nkw: 1000 query_number: 6 * 20000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.14665833333333333
+correct query 45087
+dataset name: enron
+nkw: 1000 query_number: 12 * 10000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.375725
+correct query 71153
+dataset name: enron
+nkw: 1000 query_number: 18 * 6666.666666666667 month: 18 delete_rate = 0.20
+average accuracy:  0.5929416666666667
+correct query 95321
+dataset name: enron
+nkw: 1000 query_number: 24 * 5000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.7943416666666666
+correct query 46777
+dataset name: enron
+nkw: 1000 query_number: 6 * 40000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.19490416666666666
+correct query 100389
+dataset name: enron
+nkw: 1000 query_number: 12 * 20000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.4182875
+correct query 157615
+dataset name: enron
+nkw: 1000 query_number: 18 * 13333.333333333334 month: 18 delete_rate = 0.20
+average accuracy:  0.6567291666666667
+correct query 206227
+dataset name: enron
+nkw: 1000 query_number: 24 * 10000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.8592791666666667
+correct query 75763
+dataset name: enron
+nkw: 1000 query_number: 6 * 60000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.21045277777777777
+correct query 157932
+dataset name: enron
+nkw: 1000 query_number: 12 * 30000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.4387
+correct query 249833
+dataset name: enron
+nkw: 1000 query_number: 18 * 20000.0 month: 18 delete_rate = 0.20
+average accuracy:  0.6939805555555556
+correct query 339185
+dataset name: enron
+nkw: 1000 query_number: 24 * 15000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.9421805555555556
+correct query 102044
+dataset name: enron
+nkw: 1000 query_number: 6 * 80000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.21259166666666668
+correct query 226634
+dataset name: enron
+nkw: 1000 query_number: 12 * 40000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.47215416666666665
+correct query 333285
+dataset name: enron
+nkw: 1000 query_number: 18 * 26666.666666666668 month: 18 delete_rate = 0.20
+average accuracy:  0.69434375
+correct query 418321
+dataset name: enron
+nkw: 1000 query_number: 24 * 20000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.8715020833333333
+correct query 11984
+dataset name: enron
+nkw: 2000 query_number: 6 * 20000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.09986666666666667
+correct query 32609
+dataset name: enron
+nkw: 2000 query_number: 12 * 10000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.27174166666666666
+correct query 50957
+dataset name: enron
+nkw: 2000 query_number: 18 * 6666.666666666667 month: 18 delete_rate = 0.20
+average accuracy:  0.42464166666666664
+correct query 73572
+dataset name: enron
+nkw: 2000 query_number: 24 * 5000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.6131
+correct query 32074
+dataset name: enron
+nkw: 2000 query_number: 6 * 40000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.13364166666666666
+correct query 80256
+dataset name: enron
+nkw: 2000 query_number: 12 * 20000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.3344
+correct query 129275
+dataset name: enron
+nkw: 2000 query_number: 18 * 13333.333333333334 month: 18 delete_rate = 0.20
+average accuracy:  0.5386458333333334
+correct query 171277
+dataset name: enron
+nkw: 2000 query_number: 24 * 10000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.7136541666666667
+correct query 57238
+dataset name: enron
+nkw: 2000 query_number: 6 * 60000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.15899444444444444
+correct query 133600
+dataset name: enron
+nkw: 2000 query_number: 12 * 30000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.3711111111111111
+correct query 200049
+dataset name: enron
+nkw: 2000 query_number: 18 * 20000.0 month: 18 delete_rate = 0.20
+average accuracy:  0.5556916666666667
+correct query 264190
+dataset name: enron
+nkw: 2000 query_number: 24 * 15000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.7338611111111111
+correct query 83555
+dataset name: enron
+nkw: 2000 query_number: 6 * 80000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.17407291666666666
+correct query 185156
+dataset name: enron
+nkw: 2000 query_number: 12 * 40000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.38574166666666665
+correct query 278635
+dataset name: enron
+nkw: 2000 query_number: 18 * 26666.666666666668 month: 18 delete_rate = 0.20
+average accuracy:  0.5804895833333333
+correct query 371653
+dataset name: enron
+nkw: 2000 query_number: 24 * 20000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.7742770833333333
+correct query 9067
+dataset name: enron
+nkw: 3000 query_number: 6 * 20000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.07555833333333334
+correct query 25963
+dataset name: enron
+nkw: 3000 query_number: 12 * 10000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.21635833333333335
+correct query 40967
+dataset name: enron
+nkw: 3000 query_number: 18 * 6666.666666666667 month: 18 delete_rate = 0.20
+average accuracy:  0.34139166666666665
+correct query 59960
+dataset name: enron
+nkw: 3000 query_number: 24 * 5000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.49966666666666665
+correct query 26124
+dataset name: enron
+nkw: 3000 query_number: 6 * 40000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.10885
+correct query 64215
+dataset name: enron
+nkw: 3000 query_number: 12 * 20000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.2675625
+correct query 106173
+dataset name: enron
+nkw: 3000 query_number: 18 * 13333.333333333334 month: 18 delete_rate = 0.20
+average accuracy:  0.4423875
+correct query 149778
+dataset name: enron
+nkw: 3000 query_number: 24 * 10000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.624075
+correct query 44356
+dataset name: enron
+nkw: 3000 query_number: 6 * 60000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.1232111111111111
+correct query 105021
+dataset name: enron
+nkw: 3000 query_number: 12 * 30000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.291725
+correct query 165430
+dataset name: enron
+nkw: 3000 query_number: 18 * 20000.0 month: 18 delete_rate = 0.20
+average accuracy:  0.45952777777777776
+correct query 224311
+dataset name: enron
+nkw: 3000 query_number: 24 * 15000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.6230861111111111
+correct query 67045
+dataset name: enron
+nkw: 3000 query_number: 6 * 80000.0 month: 6 delete_rate = 0.20
+average accuracy:  0.13967708333333334
+correct query 146816
+dataset name: enron
+nkw: 3000 query_number: 12 * 40000.0 month: 12 delete_rate = 0.20
+average accuracy:  0.3058666666666667
+correct query 233820
+dataset name: enron
+nkw: 3000 query_number: 18 * 26666.666666666668 month: 18 delete_rate = 0.20
+average accuracy:  0.487125
+correct query 318092
+dataset name: enron
+nkw: 3000 query_number: 24 * 20000.0 month: 24 delete_rate = 0.20
+average accuracy:  0.6626916666666667
+
